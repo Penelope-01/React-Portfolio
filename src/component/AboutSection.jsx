@@ -10,10 +10,9 @@ export const AboutSection = () => {
                 <div className="space-y-6">
                     <h3 className="text-2xl font-semibold">Passionate Web Developer</h3>
 
-                    <p className="text-muted-foreground">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni cum, quisquam cumque ullam quis perferendis quia recusandae ipsum. Dolorum repudiandae molestias nesciunt odit, culpa vero dolores quis! Deserunt, rem commodi.</p>
+                    <p className="text-muted-foreground">I’m a web development enthusiast who loves learning and building new things. Right now, I’m still on a journey to improve my skills in front-end and back-end development. I enjoy exploring new technologies, practicing through projects, and growing step by step.</p>
 
-
-                    <p className="text-muted-foreground">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni cum, quisquam cumque ullam quis perferendis quia recusandae ipsum. Dolorum repudiandae molestias nesciunt odit, culpa vero dolores quis! Deserunt, rem commodi.</p>
+                    <p className="text-muted-foreground">For me, coding is not just about writing code, but also about solving problems and creating something meaningful. With curiosity and high motivation, I’m excited to keep learning and developing myself in this field.</p>
 
                     <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
                         <a href="#contact" className="cosmic-button">Get In Touch</a>

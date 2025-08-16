@@ -5,11 +5,21 @@ export const HeroSection = () => {
     return <section id="hero" className="relative min-h-screen flex flex-col items-center justify-center px-4" >
         <div className="container max-w-4xl mx-auto text-center z-10">
             <div className="space-y-6">
+
+                <div className="flex justify-center">
+                    <img
+                    src="/profile3.jpg" 
+                    alt="Syauqa Mardhatillah"
+                    className="w-32 h-32 rounded-full object-cover border-4 border-primary shadow-lg animate-fade-in-delay-0"
+                    />
+                </div>
+
+
                 <h1 className="text-4xl md:text-6xl font-bold tracking-tight">
                     <span className="animate-fade-in-delay-1 opacity-0">Syauqa Mardhatillah</span>
                 </h1>
                 <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus alias voluptatum quod debitis minus. Fuga tenetur reiciendis nulla perspiciatis placeat voluptatem eos repellendus nihil rerum enim odit quasi, consequatur animi.
+                    Fresh Graduate in Computer Science with a strong passion for Web Development and UI/UX Design. Experienced in building responsive websites using React, Tailwind CSS, and PHP. Enthusiastic about solving real-world problems through clean code and creative design.
                 </p>
 
                 <div className="pt-4 opacity-0 animate-fade-in-delay-4">
